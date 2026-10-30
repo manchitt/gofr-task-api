@@ -1,0 +1,15 @@
+# Database
+*.db
+*.db-journal
+
+# Binaries
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test artifacts
+*.out
+*.test
