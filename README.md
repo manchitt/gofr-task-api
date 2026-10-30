@@ -14,7 +14,7 @@ A production-ready sample REST microservice built with [GoFr](https://gofr.dev) 
 
 ## Prerequisites
 
-- Go 1.25+
+- Go 1.26+
 
 ---
 
